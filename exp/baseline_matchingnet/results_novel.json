@@ -1,0 +1,1 @@
+{"acc": 60.126666666666665, "acc_all": [], "acc_ci": 0.9041695354410882, "acc_std": 11.299765320408044, "iter_num": 600, "setting": "exp/baseline/checkpoints", "split": "novel", "time": "20210216-193910"}

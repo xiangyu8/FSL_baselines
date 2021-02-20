@@ -1,0 +1,21 @@
+{
+    "cl_args_file": "exp/baseline/args.json",
+    "cl_dir": "exp/baseline/checkpoints",
+    "cl_record_file": "exp/baseline/results_novel.json",
+    "debug": false,
+    "epochs": 600,
+    "log_dir": "exp/baseline",
+    "lr": 0.001,
+    "method": "matchingnet",
+    "model": "Conv4",
+    "n": 1,
+    "n_shot": 1,
+    "n_way": 5,
+    "n_workers": 4,
+    "no_train": false,
+    "optimizer": "adam",
+    "resume": false,
+    "save_freq": 10000,
+    "seed": null,
+    "test_n_way": 5
+}
