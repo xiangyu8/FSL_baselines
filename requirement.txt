@@ -1,0 +1,9 @@
+spacy
+pandas
+torch
+torchvision
+numpy
+Pillow
+torchfile
+sklearn
+vit-pytorch
